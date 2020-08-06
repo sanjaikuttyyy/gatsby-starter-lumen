@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://naveenhonestraj.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Naveen Honest Raj | Writings & Scribblings',
+  subtitle: 'Engineer plus product enthusiast who binge watches TV shows during coffee break.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 8,
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -18,26 +18,22 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Naveen Honest raj',
+    photo: '/avatar.jpg',
+    bio: 'Engineer plus product enthusiast who binge watches TV shows during coffee break.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'naveendurai19@gmail.com',
+      twitter: 'nav_devl',
+      github: 'Navdevl',
+      linkedin: 'naveenhonestraj',
+      instagram: 'naveenhonestraj',
+      facebook: '',
+      telegram: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
       line: '',
       gitlab: '',
       weibo: '',
