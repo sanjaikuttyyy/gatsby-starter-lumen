@@ -9,7 +9,7 @@ tags:
   - "Email Server"
   - "Postfix"
   - "Incoming Email Server"
-socialImage: "/media/postfix.png"
+socialImage: "../../static/media/postfix.png"
 description: "Tried to setup my own email server with random blog reads and slack chats. Winded up with a secureless incoming email server and here how I did it."
 legacy: true
 ---
@@ -39,17 +39,17 @@ As per wiki, A mail exchanger **record** (**MX record**) specifies the mail serv
 
 Here's my configuration of the MX record. Now, in my case, my MX record points to a subdomain "mailer" of the domain "slooshers.xyz"
 
-![Configuring the MX Record](/media/screenshot-2020-05-28-at-9-56-48-pm.png)
+![Configuring the MX Record](../../static/media/screenshot-2020-05-28-at-9-56-48-pm.png)
 
 So, let us go and configure the A record for mailer and point that A record to our instance's public IP.
 
-Inorder to go find your public IP, you need to roam around your instance dashboard a little. In Digital ocean, it is always on the droplet screen, like below.![](/media/screenshot-2020-05-28-at-9-58-31-pm.png)
+Inorder to go find your public IP, you need to roam around your instance dashboard a little. In Digital ocean, it is always on the droplet screen, like below.![](../../static/media/screenshot-2020-05-28-at-9-58-31-pm.png)
 
 The ipv4 is my slooshers.xyz IP
 
 So, let's go configure the A record in few seconds.
 
-![](/media/screenshot-2020-05-28-at-10-00-07-pm.png)
+![](../../static/media/screenshot-2020-05-28-at-10-00-07-pm.png)
 
 Boom! Done. This might take like 2-5minutes for the DNS to properly reflect the changes. But that is all. You can maybe have a quick walk to your balcony and come back.
 
@@ -72,7 +72,7 @@ Now, let us roll our sleeves and start our work.
  4. Then install postfix by running `apt-get install postfix`
  5. Postfix installation will ask you to go through a wizard workflow to setup.
 
-    ![](/media/screenshot-2020-05-28-at-11-20-07-pm.png)
+    ![](../../static/media/screenshot-2020-05-28-at-11-20-07-pm.png)
  6. Choose **Internet Site**
  7. Now, verify if your hostname if properly filled as per the FQDN.
  8. For **Root and postmaster mail recipient,** just for now you can leave this blank
@@ -140,7 +140,7 @@ Now are are all set, let us try sending email. Before sending have your mail log
 
 Run `tail -f /var/log/mail.log` to get your log running.
 
-Sending email... and you see this following log in your console.![](/media/screenshot-2020-05-28-at-11-38-17-pm.png)
+Sending email... and you see this following log in your console.![](../../static/media/screenshot-2020-05-28-at-11-38-17-pm.png)
 
 Hurraayyyy. So, finally we started receiving email. Now, how can we pipe this email content into a script?
 

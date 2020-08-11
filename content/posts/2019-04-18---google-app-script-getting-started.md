@@ -9,7 +9,7 @@ tags:
   - "Google"
   - "Google Apps Script"
 description: "Apps Script is a scripting platform developed by Google for light-weight application development in the G Suite platform. Google Apps Script was initially developed by Mike Harm as a side project whilst working as a developer on Google Sheets."
-socialImage: "/media/google-sheets-addon.png"
+socialImage: "../../static/media/google-sheets-addon.png"
 legacy: true
 ---
 
@@ -69,7 +69,7 @@ You will see a `Code.gs` file with an empty function over there. Don’t panic. 
 #### Building the Menu bar
 Now there’s a bit of code we will do that will make our sheet to create a magical menu bar like the image below.
 
-![building the menu bar](/media/google-sheets-addon/building-the-menu-bar.png)
+![building the menu bar](../../static/media/google-sheets-addon/building-the-menu-bar.png)
 
 See the last menu option `Getting Started`. It also has an option to `Sync with API..` in it. This is an easy one to build.
 
@@ -123,7 +123,7 @@ _Now line 4-7, is usual thing that we do in JS. If still you aren’t familiar, 
 
 _Line 9-10 does our magic. Voila!_
 
-![Voila](/media/google-sheets-addon/voila.png)
+![Voila](../../static/media/google-sheets-addon/voila.png)
 
 This isn’t a great achievement, though! But it is still a progress and it does matter. Now, go do your work on the remaining part of the code and let me know what you are messing up while doing this and I am always on Twitter to help you out.
 

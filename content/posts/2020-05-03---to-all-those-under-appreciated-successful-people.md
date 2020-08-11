@@ -7,7 +7,7 @@ slug: "to-all-those-under-appreciated-successful-people"
 category: "Random"
 tags:
   - "Personal thoughts"
-socialImage: "/media/successful-people.jpg"
+socialImage: "../../static/media/successful-people.jpg"
 legacy: true
 ---
 Elon Musk, Jeff Bezos, Warren Buffett and a list of entrepreneurs are tagged as "successful" because of their lifestyle, consistency, persistence and etcetera etcetera. 

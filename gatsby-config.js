@@ -114,6 +114,7 @@ module.exports = {
             options: {
               maxWidth: 960,
               withWebp: true,
+              quality: 75,
               ignoreFileExtensions: [],
               linkImagesToOriginal: false
             }

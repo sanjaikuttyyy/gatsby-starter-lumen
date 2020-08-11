@@ -9,7 +9,7 @@ tags:
   - "Books"
   - "Personal thoughts"
 description: "Quick blog around the concept of Common Table Expressions and how it can be leveraged to be used for daily normal usecases."
-socialImage: "/media/homo-sapiens.jpeg"
+socialImage: "../../static/media/homo-sapiens.jpeg"
 legacy: true
 ---
 

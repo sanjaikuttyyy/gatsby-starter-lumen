@@ -9,11 +9,11 @@ tags:
   - "Handwriting"
   - "Learning to write"
 description: "Quick blog around the concept of Common Table Expressions and how it can be leveraged to be used for daily normal usecases."
-socialImage: "/media/common-table-expression.png"
+socialImage: "../../static/media/common-table-expression.png"
 legacy: true
 ---
 
-![Common Table Expressions Snippet](/media/common-table-expression.png)
+![Common Table Expressions Snippet](../../static/media/common-table-expression.png)
 
 _Hello devs 👋! This article is solely written for Django devs i.e, it is assumed you have an basic understanding on Django and used simple Django queries. But also other devs can also make use of the benefits of CTEs in a lot of scenearios._
 
