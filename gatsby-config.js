@@ -115,6 +115,7 @@ module.exports = {
               maxWidth: 960,
               withWebp: true,
               ignoreFileExtensions: [],
+              linkImagesToOriginal: false
             }
           },
           {
@@ -125,7 +126,8 @@ module.exports = {
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
-          'gatsby-remark-external-links'
+          'gatsby-remark-external-links',
+          'gatsby-remark-images-medium-zoom'
         ]
       }
     },

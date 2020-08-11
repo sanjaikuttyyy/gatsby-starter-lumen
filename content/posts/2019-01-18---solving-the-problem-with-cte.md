@@ -8,11 +8,14 @@ category: "Engineering"
 tags:
   - "Handwriting"
   - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
-socialImage: "/media/image-2.jpg"
+description: "Quick blog around the concept of Common Table Expressions and how it can be leveraged to be used for daily normal usecases."
+socialImage: "/media/common-table-expression.png"
+legacy: true
 ---
 
-Hello devs! This article is solely written for Django devs, but other devs can also make use of the benefits of CTEs in a lot of scenearios.
+![Common Table Expressions Snippet](/media/common-table-expression.png)
+
+_Hello devs 👋! This article is solely written for Django devs i.e, it is assumed you have an basic understanding on Django and used simple Django queries. But also other devs can also make use of the benefits of CTEs in a lot of scenearios._
 
 ## So what is CTE?
 Few databases provides a way to store temporary results in a label(named dataset), that can be reused in the following queries. There are tons of articles written to explain CTE, but still here’s my part.
@@ -34,9 +37,7 @@ WITH EngineeringStudents(id, name) AS (
   SELECT *
     FROM (SELECT id, name FROM students where category == 'engineering') 
 )
-```
 
-```sql
 SELECT * FROM EngineeringStudents;
 ```
 
@@ -59,7 +60,7 @@ WHERE es1.parent_id = NULL;
 
 If you really wanted me to explain the above SQL, you might need to brush up your SQL skills forehand.
 
-So, yes! CTE is really a friendly choice to take.
+So, yes! In few cases, CTE is really a friendly choice to take.
 
 ### Now taking it to our Django part
 I was working on an application where we have Categories and these categories have subcategories and the depth goes on.
@@ -107,6 +108,4 @@ categories = Category.objects.raw('''
     SELECT * FROM parent_category;
     ''', params=[tuple(root_category_id)])
 ```
-
-Last, but not the least. Don't forget to connect me on Twitter [@nav_devl](https://twitter.com/nav_devl)
 
