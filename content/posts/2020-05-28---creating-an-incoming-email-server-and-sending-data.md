@@ -9,7 +9,7 @@ tags:
   - "Email Server"
   - "Postfix"
   - "Incoming Email Server"
-socialImage: "../../static/media/postfix.png"
+socialImage: "/static/media/postfix.png"
 description: "Tried to setup my own email server with random blog reads and slack chats. Winded up with a secureless incoming email server and here how I did it."
 legacy: true
 ---
