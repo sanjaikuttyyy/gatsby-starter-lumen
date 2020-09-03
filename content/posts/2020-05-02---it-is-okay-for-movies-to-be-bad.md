@@ -9,7 +9,7 @@ tags:
   - "Movies"
   - "Personal thoughts"
 description: "Quick blog around the concept of Common Table Expressions and how it can be leveraged to be used for daily normal usecases."
-socialImage: "../../static/media/movies-netflix-min.jpg"
+socialImage: "/media/movies-netflix-min.jpg"
 legacy: true
 ---
 Recently, I am seeing a lot of support for the posts that pick scenes from movies that range from 2000 till now, and rant about how sexist the scenes are, how comedies are made out of body shaming and a huge list of rant goes on and on.

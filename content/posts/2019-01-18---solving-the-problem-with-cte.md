@@ -9,7 +9,7 @@ tags:
   - "Handwriting"
   - "Learning to write"
 description: "Quick blog around the concept of Common Table Expressions and how it can be leveraged to be used for daily normal usecases."
-socialImage: "../../static/media/common-table-expression.png"
+socialImage: "/media/common-table-expression.png"
 legacy: true
 ---
 

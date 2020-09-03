@@ -9,7 +9,7 @@ tags:
   - "Google"
   - "Google Apps Script"
 description: "Apps Script is a scripting platform developed by Google for light-weight application development in the G Suite platform. Google Apps Script was initially developed by Mike Harm as a side project whilst working as a developer on Google Sheets."
-socialImage: "../../static/media/google-sheets-addon.png"
+socialImage: "/media/google-sheets-addon.png"
 legacy: true
 ---
 

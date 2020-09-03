@@ -10,7 +10,7 @@ tags:
 - Personal thoughts
 description: I am reading "Sapiens" by Yuval Noah Harari. While reading a specific
   paragraph, I had this weird thought. This is completely random, so no judgements.
-socialImage: "../../static/media/homo-sapiens.jpeg"
+socialImage: "/media/homo-sapiens.jpeg"
 legacy: true
 
 ---
