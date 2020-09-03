@@ -8,8 +8,8 @@ category: Random
 tags:
 - Books
 - Personal thoughts
-description: Quick blog around the concept of Common Table Expressions and how it
-  can be leveraged to be used for daily normal usecases.
+description: I am reading "Sapiens" by Yuval Noah Harari. While reading a specific
+  paragraph, I had this weird thought. This is completely random, so no judgements.
 socialImage: "../../static/media/homo-sapiens.jpeg"
 legacy: true
 
@@ -24,5 +24,3 @@ I am reading "Sapiens" by Yuval Noah Harari. While reading a specific paragraph,
 What if humans figured out a way to get nutrients through a different way instead of our natural way. Something like, we inject nutrients, but not eat. i.e, we stop using our mouth. What if at some point of time, we figure out a ways to record our brain waves and send messages using just our thoughts.
 
 Do we then mutate interms of cognition again? Plus a whole physical mutation too? Another evolution where we end up like the aliens we usually imagine to be. No mouth. Big brains. The chances are too high, I declare.
-
-<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">July thread.<br><br>Quote: &quot;I have hope in who I am becoming.&quot; <a href="https://t.co/TVnPleYVz4">https://t.co/TVnPleYVz4</a></p>&mdash; Naveen Honest Raj (@nav_devl) <a href="https://twitter.com/nav_devl/status/1278297742452785152?ref_src=twsrc%5Etfw">July 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
