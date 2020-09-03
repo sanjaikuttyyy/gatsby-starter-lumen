@@ -1,16 +1,20 @@
 ---
 title: It is okay for movies to be bad.
-date: "2020-05-02T00:00:00.00Z"
-template: "post"
+date: 2020-05-02T00:00:00.00Z
+template: post
 draft: false
-slug: "it-is-okay-for-movies-to-be-bad"
-category: "Movies"
+slug: it-is-okay-for-movies-to-be-bad
+category: Movies
 tags:
-  - "Movies"
-  - "Personal thoughts"
-description: "Quick blog around the concept of Common Table Expressions and how it can be leveraged to be used for daily normal usecases."
+- Movies
+- Personal thoughts
+description: In this past year, the movies in India, fortunately(or unfortunately)
+  got this over passion about making moral films that conveys meaningful patriotism
+  towards the country or standing up against a huge-list-of-discriminations, or maybe
+  pick topics around patriarchy and so on.
 socialImage: "/media/movies-netflix-min.jpg"
 legacy: true
+
 ---
 Recently, I am seeing a lot of support for the posts that pick scenes from movies that range from 2000 till now, and rant about how sexist the scenes are, how comedies are made out of body shaming and a huge list of rant goes on and on.
 
