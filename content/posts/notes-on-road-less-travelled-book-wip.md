@@ -16,4 +16,4 @@ socialImage: "/media/road-less-travelled.jpg"
 legacy: false
 
 ---
-Currently reading...
+* There are four ways of enabling disciple: delaying gratification, acceptance of responsibility, dedication to truth and balancing.
