@@ -1,6 +1,6 @@
 ---
 title: Summary on Road Less Travelled book - WIP
-date: 2020-05-02T00:00:00.00Z
+date: 2020-09-15T18:00:00+05:30
 template: post
 draft: false
 slug: summary-on-road-less-travelled
