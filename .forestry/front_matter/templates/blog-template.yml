@@ -18,9 +18,6 @@ fields:
   name: slug
   label: slug
 - type: list
-  name: category
-  label: category
-- type: list
   name: tags
   label: tags
 - type: textarea
@@ -32,3 +29,8 @@ fields:
 - type: boolean
   name: legacy
   label: legacy
+- name: category
+  type: text
+  config:
+    required: false
+  label: category
