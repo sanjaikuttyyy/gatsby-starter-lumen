@@ -3,7 +3,7 @@ title: Summary on Road Less Travelled book - WIP
 date: 2020-05-02T00:00:00.00Z
 template: post
 draft: false
-slug: notes-on-road-less-travelled
+slug: summary-on-road-less-travelled
 category: Book Summaries
 tags:
 - Books
