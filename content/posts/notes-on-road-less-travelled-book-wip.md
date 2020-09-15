@@ -1,11 +1,10 @@
 ---
-title: Notes on Road Less Travelled book - WIP
+title: Summary on Road Less Travelled book - WIP
 date: 2020-05-02T00:00:00.00Z
 template: post
 draft: false
 slug: notes-on-road-less-travelled
-category:
-- Book Summaries
+category: Book Summaries
 tags:
 - Books
 - Personal Thoughts
@@ -26,4 +25,4 @@ legacy: false
 * No act is more unnatural, and hence more human, than the act of entering psychotherapy.
 * Genuine psychotherapy. is a legitimate shortcut to personal growth which often is ignored.
 
-... still reading.
+... still reading..
