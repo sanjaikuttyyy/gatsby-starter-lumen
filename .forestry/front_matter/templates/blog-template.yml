@@ -34,3 +34,5 @@ fields:
   config:
     required: false
   label: category
+pages:
+- content/posts/notes-on-road-less-travelled-book-wip.md

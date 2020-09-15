@@ -12,7 +12,7 @@ tags:
 description: Road Less Travelled is a wonderful book by M Scott Peck. This post is
   just a quick notes on whatever that I loved in these books and this is just total
   random thing I penned down while reading the book. No judgements.
-socialImage: "/media/road-less-travelled.jpg"
+socialImage: "/uploads/road-less-travelled.jpg"
 legacy: false
 
 ---
