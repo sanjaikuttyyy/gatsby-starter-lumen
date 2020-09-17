@@ -26,5 +26,8 @@ legacy: false
 * Genuine psychotherapy. is a legitimate shortcut to personal growth which often is ignored.
 * To be free, we must assume total responsibility for ourselves, but in doing so, one must possess the capacity to reject the responsibility that is not truly theirs.
 * Sometimes giving up is integral part of growing up.
+* What provides the motive, the energy for discipline? The force I believe is love.
+* Love is too large, too deep ever to be truly understood or measured or limited within a framework of words.
+* Love is not effortless, but on the contrary, love is effortful
 
 ... still reading..
