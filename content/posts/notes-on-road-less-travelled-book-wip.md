@@ -23,7 +23,7 @@ legacy: false
 * In attempting to avoid the pain of responsibility, millions and even billions daily attempt to escape from freedom.
 * Frequently people's need to cling to their own reality-definition(maps), and fight against losing them is so great that therapy becomes impossible.
 * No act is more unnatural, and hence more human, than the act of entering psychotherapy.
-* Genuine psychotherapy. is a legitimate shortcut to personal growth which often is ignored.
+* Genuine psychotherapy is a legitimate shortcut to personal growth which often is ignored.
 * To be free, we must assume total responsibility for ourselves, but in doing so, one must possess the capacity to reject the responsibility that is not truly theirs.
 * Sometimes giving up is integral part of growing up.
 * What provides the motive, the energy for discipline? The force I believe is love.
