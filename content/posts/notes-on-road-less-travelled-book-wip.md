@@ -28,6 +28,6 @@ legacy: false
 * Sometimes giving up is integral part of growing up.
 * What provides the motive, the energy for discipline? The force I believe is love.
 * Love is too large, too deep ever to be truly understood or measured or limited within a framework of words.
-* Love is not effortless, but on the contrary, love is effortful
+* Love is not effortless, but on the contrary, love is effortful.
 
 ... still reading..
