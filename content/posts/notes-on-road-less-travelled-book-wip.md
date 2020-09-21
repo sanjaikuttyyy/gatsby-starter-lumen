@@ -15,7 +15,7 @@ socialImage: "/uploads/road-less-travelled.jpg"
 legacy: false
 
 ---
-* There are four ways of enabling disciple: delaying gratification, acceptance of responsibility, dedication to truth and balancing.
+* There are four ways of enabling discipline: delaying gratification, acceptance of responsibility, dedication to truth and balancing.
 * The the feeling of being valuable is essential to mental health and is a corner stone of self-discipline.
 * Problems do not go away. They must be worked through or else they remain forever a barrier to the growth and development of the spirit.
 * The inclination to ignore the problems is a simple manifestation of unwillingness to delay gratification.
