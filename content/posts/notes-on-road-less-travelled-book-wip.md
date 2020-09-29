@@ -32,5 +32,6 @@ legacy: false
 * By the time of mid-adolescence, young people know that they are individuals, confined to the boundaries of their flesh and the limits of their power, each one relatively frail and impotent organism, existing only by cooperation within a group of fellow organisms called society.
 * We can choose how to respond to the experience of falling in love, but we cannot choose the experience itself.
 * The sexual specificity of the phenomenon leads me to suspect that it is genetically determined instinctual component of mating behaviour. In simple words, falling in love is stereotypic response of human beings to a configuration of internal sexual drives and external sexual stimuli, which serves to increase the  probability of sexual pairing and bonding so as to enhance the survival of the human species.
+* **_Cathexis_** is defined as the process of allocation of mental or emotional energy to a person, object, or idea.
 
 ... still reading..
