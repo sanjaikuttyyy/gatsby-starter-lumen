@@ -36,5 +36,7 @@ legacy: false
 * It is impossible to see the unity of the universe as long as one continues to see oneself as discrete object, separate and distinguishable from the rest of the universe.
 * One must fine one's self before one can lose it. You cannot give up on a thing that you don't have.
 * Two people love each other only when they are quite capable of living without each other but choose to live with each other.
+* There is a paradox in love; that it is selfish and unselfish at the same time.
+* Even after marriage, one may meet a person who strongly attracts them, but because it would be destructive to their marriage, they will say vocally or say in the silence of their heart, "I feel like loving you, but I am not going to".
 
 ... still reading..
