@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://naveenhonestraj.netlify.com',
+  url: 'https://sanjaikutty.com',
   pathPrefix: '/',
   title: 'Sanjai Kutty',
-  subtitle: 'Engineer plus product enthusiast who binge watches TV shows during coffee break.',
+  subtitle: 'A generalist on Design and Technology. 5 year goal is to become a seed stage investor. Father of 2 year old cat',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 8,
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Sanjai Kutty',
     photo: '/avatar.jpg',
-    bio: 'Engineer plus product enthusiast who binge watches TV shows during coffee break.',
+    bio: 'A generalist on Design and Technology. 5 year goal is to become a seed stage investor. Father of 2 year old cat',
     contacts: {
       email: 'smsanjaiast@gmail.com',
       twitter: 'sanjai_kutty',
