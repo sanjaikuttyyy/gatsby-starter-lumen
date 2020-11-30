@@ -34,3 +34,5 @@ fields:
   config:
     required: false
   label: category
+pages:
+- content/posts/what-is-mvp-how-to-build-and-how-not-to-think-about-it.md
