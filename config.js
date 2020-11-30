@@ -22,7 +22,7 @@ module.exports = {
   ],
   author: {
     name: 'Sanjai Kutty',
-    photo: '/avatar.jpg',
+    photo: '/sanjaikutty.png',
     bio: 'A generalist on Design and Technology. 5 year goal is to become a seed stage investor. Father of 2 year old cat',
     contacts: {
       email: 'smsanjaiast@gmail.com',
