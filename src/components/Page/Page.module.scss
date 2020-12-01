@@ -1,8 +1,19 @@
+// PATH: src/components/Page/Page.module.scss
 @import '../../assets/scss/variables';
 @import '../../assets/scss/mixins';
 
 .page {
   @include margin-bottom(2);
+
+  a {
+    background-color: $color-link;
+    color: #fff;
+    padding: 0 3px 1px 3px;
+
+    &:hover {
+      background-color: $color-link-hover;
+    }
+  }
 
   &__inner {
     padding: 25px 20px;
