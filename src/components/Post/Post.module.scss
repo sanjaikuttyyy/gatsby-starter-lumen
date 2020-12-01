@@ -1,7 +1,19 @@
+// PATH: src/components/Post/Post.module.scss
+
 @import '../../assets/scss/variables';
 @import '../../assets/scss/mixins';
 
 .post {
+  a {
+    background-color: $color-link;
+    color: #fff;
+    padding: 0 3px 1px 3px;
+
+    &:hover {
+      background-color: $color-link-hover;
+    }
+  }
+
   &__footer {
     max-width: $layout-post-width;
     margin: 0 auto;
