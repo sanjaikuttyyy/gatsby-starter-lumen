@@ -1,7 +1,7 @@
 ---
 title: What is MVP, how to build, and how not to think about it?
 date: 2020-11-30T18:30:00Z
-template: ''
+template: 'posts'
 draft: false
 slug: mvp
 tags:
