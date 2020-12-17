@@ -1,7 +1,7 @@
 ---
 title: Failure Probabilities
 date: 2020-12-17T14:35:00Z
-template: ''
+template: posts
 draft: false
 slug: failure-probability
 tags: []
