@@ -5,9 +5,7 @@ template: posts
 draft: false
 slug: failure-probability
 tags: []
-description: I am always curious about What made people successful. The word success
-  is subjective. But with the knowledge or dataset that my brain has right now, I
-  could say success is about having a meaningful life and financial freedom
+description: demo
 socialImage: ''
 legacy: false
 category: failure
