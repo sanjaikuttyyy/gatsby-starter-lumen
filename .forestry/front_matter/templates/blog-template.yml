@@ -35,4 +35,5 @@ fields:
     required: false
   label: category
 pages:
+- content/posts/failure-probabilities.md
 - content/posts/what-is-mvp-how-to-build-and-how-not-to-think-about-it.md
