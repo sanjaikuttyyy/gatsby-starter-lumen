@@ -35,5 +35,6 @@ fields:
     required: false
   label: category
 pages:
+- content/posts/education-system.md
 - content/posts/failure-probabilities.md
 - content/posts/what-is-mvp-how-to-build-and-how-not-to-think-about-it.md
